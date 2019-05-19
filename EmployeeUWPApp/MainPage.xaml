@@ -8,6 +8,9 @@
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
+    
+    
+    
     <Grid>
         <GridView Name="Employees" ItemsSource="{Binding}" 
                   Height="300" Width="400" Margin="50" ScrollViewer.VerticalScrollBarVisibility="Auto">
